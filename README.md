@@ -33,7 +33,11 @@
   <a href="https://www.hackerrank.com/jayeshmuley2022" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
+  <a href="https://www.hackerearth.com/@jayeshmuley31" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
