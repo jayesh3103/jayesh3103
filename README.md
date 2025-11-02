@@ -1,7 +1,4 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/04d53f80577741.5cf8b5c84827c.gif" width="100%" />
-</p>
+
 
 <h1 align="center">Hey there! 👋 I'm Jayesh Muley</h1>
 <h3 align="center">Crafting code, solving problems, and sipping coffee ☕ from 🇮🇳</h3>
