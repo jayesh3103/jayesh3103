@@ -71,17 +71,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayesh3103&show_icons=true&theme=tokyonight" alt="Jayesh's GitHub stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayesh3103&show_icons=true&count_private=true&theme=aura&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayesh3103&layout=compact&theme=aura&hide_border=true" height="150" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh3103&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh3103&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
@@ -90,4 +84,11 @@
 > "Experience is the name everyone gives to their mistakes." — Oscar Wilde  
 
 ---
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/jayesh3103/jayesh3103/blob/output/github-snake.svg)
+</div>
+
 
