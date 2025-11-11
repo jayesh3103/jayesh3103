@@ -1,11 +1,19 @@
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=400&lines=Competitive+Programmer;Full+Stack+Developer;Java+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h1 align="center">Hey there! 👋 I'm Jayesh Muley</h1>
 <h3 align="center">Crafting code, solving problems, and sipping coffee ☕ from 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;Full+Stack+Developer;Java+Enthusiast;MERN+Stack+Explorer;Problem+Solver&center=true&width=500&height=45">
-</p>
 
 ---
 
