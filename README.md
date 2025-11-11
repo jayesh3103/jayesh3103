@@ -18,7 +18,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CS Undergrad at **Vellore Institute of Technology, Bhopal**
+- 🎓 CS Postgrad at **Vellore Institute of Technology, Bhopal**
 - 💡 Currently learning: **Java & Full Stack Development**
 - 🚀 Passionate about: **Competitive Programming | MERN Stack | Problem Solving**
 - 📬 Reach me at: **mr.jayeshvmuley@gmail.com**
