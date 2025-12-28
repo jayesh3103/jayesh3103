@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://jayeshmuley.vercel.app/" target="_blank">
+  <a href="https://jayeshmuley.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-www.jayeshmuley.onrender.com-00D4AA?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </div>
